@@ -70,58 +70,11 @@
 
 > 以下来自上面几个站的后台截图，**价格随时变动，以各站实时页面为准**。
 
-### 3.1 渠道倍率实拍（倍率 = 官价乘数，越低越便宜）
-
 ![渠道倍率实拍](images/01-ratio.png)
-
-| 渠道 | 倍率 | 相对官价 |
-|---|---|---|
-| GPT 特惠 | ×0.1 | −99% |
-| Claude Kiro 特惠 | ×0.13 | — |
-| Grok Heavy 官号 | ×0.15 | −98% |
-| GPT Pro 官号 | ×0.2 | −97% |
-| Claude Kiro AWS 企业 | ×0.2 | −97% |
-| Gemini 官号 | ×0.3 | −96% |
-| 国产之光 | ×0.3 | −70% |
-| GPT 企业线路 | ×0.35 | −95% |
-| GPT 官 Key | ×0.4 | −95% |
-| Claude Max 官号 / 透传 | ×1.2 | −84% |
-| Claude 企业线路 | ×1.6 | −78% |
-| 生图 / 视频专用 | ×1 | −86% |
-
-### 3.2 模型价格实拍（单位：$ / 1M tokens）
 
 ![模型价格页实拍](images/02-model-price.png)
 
-| 模型 | 输入 | 输出 | 备注 |
-|---|---|---|---|
-| gpt-6-sol（满血） | $0.20 | $1.00 | GPT 低价口粮 |
-| gpt-5.6-luna | $0.20 | $1.20 | |
-| gpt-5.6-terra | $0.20 | $1.20 | |
-| gpt-5.6-sol | $0.50 | $3.00 | |
-| gpt-5.5 | $0.50 | $3.00 | |
-| gpt-6-astra（加速） | $3.00 | $15.00 | |
-| codex-auto-review | $0.02 | $0.12 | 白菜价 |
-| gpt-image-2.5 | $0.05 / 张 | — | 生图 |
-| gpt-image-2 | $0.10 / 张 | — | 生图 |
-| claude-sonnet-5 | $1.00 | $5.00 | |
-| claude-opus-5 | $2.50 | $12.50 | |
-| claude-fable-5 / 5-1 | $5.00 | $25.00 | 旗舰 |
-| claude-haiku-4-5 | $0.50 | $2.50 | |
-| gemini-3.8-flash / 3.6-flash | $0.60 | $3.00 | |
-| gemini-3.1-pro-preview | $1.60 | $9.60 | |
-| deepseek-v4.1-flash（满血） | $0.20 | $0.80 | |
-| deepseek-v4-flash | $0.30 | $0.90 | |
-
-> 单个站就有 39 个模型、7 家厂商在架，国产线（DeepSeek / GLM / Kimi / 千问 / 豆包）基本全覆盖。
-
-### 3.3 可用性监控实拍
-
-主力分组 7 天可用性普遍在 91% 以上，其中 claude(特殊kiro) **99.66%**、国-腾讯云 deepseek **100%**、官key-不降智 **95.13%**，日用基本够稳。
-
 ![可用性监控实拍](images/05-uptime.png)
-
-### 3.4 后台密钥与分组实拍
 
 ![后台密钥实拍一](images/03-keys-a.png)
 
@@ -135,16 +88,6 @@
 2. 后台新建 API Key，按需选择分组（分组倍率不同）
 3. 客户端里填 `base_url` + `sk-` 令牌即可：
 
-**Cherry Studio / Chatbox / LobeChat 等**：API 地址填站点域名（一般带 `/v1`），模型名选分组对应的即可。
-
-**Claude Code**：
-
-```bash
-export ANTHROPIC_BASE_URL=https://站点域名
-export ANTHROPIC_AUTH_TOKEN=sk-你的key
-```
-
-**Codex / Cline / Roo Code 等**：在设置里把 provider 的 base_url 换成站点地址即可，具体格式以各站文档为准。
 
 ## 5. 避坑 FAQ
 
