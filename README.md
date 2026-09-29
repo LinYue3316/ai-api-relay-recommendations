@@ -66,6 +66,21 @@
 - 群主天天在群里，炸了找得到人、修得也快——在中转圈，这比便宜难能可贵
 - 适合：新手、怕跑路、要售后的
 
+### 7️⃣ DSH API —— 官方价 8% 的国模分组，双协议同一个域名
+
+**入口**：https://api.dshapi.icu/r/T8KiaeGU
+
+- 国模分组 **0.08x**（官网价的 8%），这是目前见过最低的一档倍率；open ai pro 分组 0.22x
+- 同一个 base URL 同时支持 OpenAI（`/v1/chat/completions`、`/v1/responses`）和 **Anthropic**（`/v1/messages`）两套协议
+- 支付宝 / 微信直接充，QQ 邮箱注册，无需海外手机号或外卡，国内直连不用梯子
+- 本人账号实测数据：累计 30,734 次请求、40.7 亿 token，实付 **¥28.67**，平台标准价 **¥359.51**（实付比例 7.97%）
+- 四个端点实测全通：`/v1/models` 1.61s、`/v1/chat/completions` 2.19s、`/v1/responses` 2.37s、`/v1/messages` 3.94s
+- 可用模型：deepseek-v4-flash / v4.1-flash / pro、glm-5.2 / 5.3 / 5.3-flash、kimi-k2.8 / k3、minimax-m3、hy3 / hy4
+- Claude Code 和 Codex CLI 改一个环境变量就能用，不用改代码
+
+适合：预算敏感、主力跑国模、同时用 Claude Code + Codex 两套客户端的人。
+
+
 ## 3. 价格参考（后台实拍）
 
 > 以下来自上面几个站的后台截图，**价格随时变动，以各站实时页面为准**。
