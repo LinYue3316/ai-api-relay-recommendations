@@ -12,10 +12,10 @@
 
 | 需求 | 站点 | 一句话点评 |
 |---|---|---|
-| 模型最全，冷门模型也能找到 | [yoshub](https://api.yoshub.com/?aff=ZZrl) | 自备智商检测，模型多 |
+| 自带智商检测 | [yoshub](https://api.yoshub.com/?aff=ZZrl) | 有便宜的claude aws |
 | 全且稳，懒得折腾 | [poke2api](https://www.poke2api.com/register?aff=9ZYKTQL98HAE) | 贵一点，但模型全且稳定 |
-| GPT 炸了要兜底 | [starapi](https://www.starapi.cc/register?aff=P8XWVHXYHNHN) | 便宜的国模渠道量大管饱 |
-| 便宜大碗 luna | [usa0](https://usa0.top/register?aff=CX64TD5KYYPK) | 有 gpt-6-luna，主打 GPT 系低价 |
+| 性价比之选 | [starapi](https://www.starapi.cc/register?aff=P8XWVHXYHNHN) | 便宜的国模渠道量大管饱 |
+| 便宜大碗 luna | [usa0](https://usa0.top/register?aff=CX64TD5KYYPK) | 有 gpt-6-luna，要低价的可以试试 |
 | 写代码拒绝降智 | [dieqiyun](https://dieqiyun.top/register?aff=2AQQNGXAYMMU) | 不降智渠道很多 |
 | 怕跑路，要活人售后 | [wanzhao](https://sub.wanzhao.top/register?aff=YDSMZ3PB4278) | 群主是活人，天天在群里 |
 
@@ -25,7 +25,7 @@
 
 **入口**：https://api.yoshub.com/?aff=ZZrl
 
-- 分组 100+ 个，GPT / Claude / Gemini / Grok / DeepSeek / GLM / Kimi / 千问 / 豆包 / MIMO / Muse Spark 全都有，连生图、视频专用分组都齐
+- 有便宜的claude aws渠道，其他的也比较便宜
 - 渠道多也意味着同一模型不同分组体验差异大，**建议小额充值多测几个分组**，找到适合自己的那条线
 - 适合：喜欢折腾、想一站集齐所有模型的玩家
 
@@ -33,7 +33,7 @@
 
 **入口**：https://www.poke2api.com/register?aff=9ZYKTQL98HAE
 
-- 价格在中转圈不算便宜，胜在渠道稳、模型全，透传线路多
+- GPT / Claude / Gemini / Grok / DeepSeek / GLM / Kimi / 千问 / 豆包 / MIMO / Muse Spark 全都有，连生图、视频专用分组都齐，价格不算便宜，胜在渠道稳、模型全，透传线路多
 - 适合：拿它当主力、不想天天换站的生产力用户
 
 ### 3️⃣ starapi —— GPT 炸了，国模兜底
@@ -48,7 +48,7 @@
 
 **入口**：https://usa0.top/register?aff=CX64TD5KYYPK
 
-- 主打 GPT 系低价线路，实拍里有 luna / sol / 生图专用的"狗屎车"分组，倍率低到 ×0.06
+- 主打 GPT 系低价线路，倍率低到 ×0.1
 - 适合：GPT 重度、预算敏感，能接受号池渠道波动的
 
 ### 5️⃣ dieqiyun —— 不降智渠道很多
